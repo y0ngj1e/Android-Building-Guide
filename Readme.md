@@ -1,4 +1,4 @@
-- Pixel Experience 13 rom and lmi (Xiaomi Poco F2 Pro) are used as an example in this guide, because as of when this guide was written, this rom is completely unavailable for this device, despite having several Android 13 trees and stable roms available for this device. 
+- Pixel Experience 13 rom and lmi (Xiaomi Poco F2 Pro) are used as an example in this guide
 - As Pixel Experience is based off LineageOS, we have to use LOS based device and vendor trees. using AOSP based trees might have more errors upon compilation of the rom. 
 - Have at least 300GB free space and 16GB RAM (with 20GB swap) for the build to succeed.
 
