@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<manifest>
+	<project name="Kyuofox-Studio/android_vendor_xiaomi_lmi" path="vendor/xiaomi/lmi" remote="github" revision="sunflowerleaf" />
+	<project name="Kyuofox-Studio/android_kernel_xiaomi_lmi" path="kernel/xiaomi/lmi" remote="github" revision="sunflowerleaf" />
+	<project name="NotEclypse/device_xiaomi_lmi" path="device/xiaomi/lmi" remote="github" revision="thirteen" />
+	<project name="PixelExperience/hardware_xiaomi" path="hardware/xiaomi" remote="github" revision="thirteen" />
+</manifest>
